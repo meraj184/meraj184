@@ -1,7 +1,8 @@
-[![MasterHead](https://images.app.goo.gl/iboj4X4naq98Abf89)]
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
 <h1 align="center">Hi 👋, I'm Meraj Alam.</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/v7JzRCgDEQL4muZt7">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meraj184&label=Profile%20views&color=0e75b6&style=flat" alt="meraj184" /> </p>
 
@@ -10,6 +11,8 @@
 - 🔭 I’m currently working in **TCS**
 
 - 🌱 I’m currently learning **React js**
+
+- - 💬 Ask me about **Java , MEARN**
 
 - 👨‍💻 All of my projects are available at [https://stackblitz.com/edit/dom-project-chaiaurcode-v8vtck?file=index.html](https://stackblitz.com/edit/dom-project-chaiaurcode-v8vtck?file=index.html)
 
