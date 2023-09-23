@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/meraj-alam-b4123b168/](https://www.linkedin.com/in/meraj-alam-b4123b168/)
 
-- 📃 Blog [https://www.quora.com/profile/Meraj-Alam-71?ch=10&share=f3ecc90e&srid=heb24](https://www.quora.com/profile/Meraj-Alam-71?ch=10&share=f3ecc90e&srid=heb24)
+- 📃 Blog [https://www.quora.com/profile/Meraj-Alam-71?](https://www.quora.com/profile/Meraj-Alam-71?)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
